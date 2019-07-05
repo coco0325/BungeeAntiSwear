@@ -1,0 +1,5 @@
+name: BungeeAntiSwear
+version: ${project.version}
+main: me.coco0325.BungeeAntiSwear
+description: Anti Swear
+author: coco0325

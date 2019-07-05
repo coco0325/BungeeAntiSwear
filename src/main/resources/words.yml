@@ -1,0 +1,5 @@
+BadWords:
+  - "fuck"
+  - "shit"
+ReplaceWords:
+  - "幹嗎;幹嘛"
